@@ -1,0 +1,15 @@
+There are following files in the submitted project folder:
+
+1) mine_sweeper_exe folder: This folder contains a MineSweeper.exe, which can be executed on a Windows OS without installing Java environment. It needs to be executed in the path "./mine_sweeper_exe/" 
+
+2) mine_sweeper folder: This folder contains all the source code for MineSweeper program.
+   	The path "./solver/" contains the answer set programming files.
+  	The path "./src/mine_sweeper/" contains the java interface files.
+    	This program has been tested on Windows 7 OS using Eclipse 4.3.2, JRE7 and iclingo 3.0.5.java_interface 
+
+3) demo.wmv: a recorded demo for the project
+
+4) Read_Me.pdf: Comments about the MineSweeper program 
+
+5) User_Guide.pdf: Instructions for user to play the MineSweeper game
+
