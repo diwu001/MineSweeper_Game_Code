@@ -1,7 +1,7 @@
 # MineSweeper_Game_Code
 
 * Answer Set Programming MineSweeper Solver with Java Interface
-* Di Wu (Email: di.wu@ttu.edu)
+* Tina D. Wu (Email: diwubupt@gmail.com)
 * Department of Computer Science, Texas Tech University
 * Last updated 6/27/2014
 
