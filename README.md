@@ -1,4 +1,4 @@
-# MineSweeper_Game_Code
+# MineSweeper_Game
 
 * Answer Set Programming MineSweeper Solver with Java Interface
 * Tina D. Wu (Email: diwubupt@gmail.com)
